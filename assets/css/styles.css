@@ -635,10 +635,6 @@ a {
     margin-right: 18px;
 }
 
-.footer .social-link:hover {
-    background: #ebebeb;
-}
-
 .footer .row-bottom {
     display: flex;
     align-items: center;
